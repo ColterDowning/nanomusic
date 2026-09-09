@@ -1,0 +1,1 @@
+A recreation of Karpathy's nanochat, but for music translation! The best audio -> sheetmusic model $100 can buy
